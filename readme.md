@@ -16,9 +16,9 @@
 
 ✅ Запустить на выполнение файл code_script/main.py
 
-#### Подробная пошаговая инструкция установки программы приведена в [описании](https://github.com/Nikolay08041979/PDFparcing2SQL/blob/master/project_description/HLD_pdf_parcing_sql.pdf) работы модуля.
+#### Подробная пошаговая инструкция запуска модуля приведена в [описании](https://github.com/Nikolay08041979/PDFparcing2SQL/blob/master/project_description/HLD_pdf_parcing_sql.pdf) выше.
 
->>> # Результат работы - [файл](https://github.com/Nikolay08041979/PDFparcing2SQL/blob/master/spare_parts_202402221933.sql) с расширением .sql - в папке: Backup_files/spare_parts_202402221933.sql
+>>> ### Результат работы модуля - [файл](https://github.com/Nikolay08041979/PDFparcing2SQL/blob/master/spare_parts_202402221933.sql) с расширением .sql, выгруженный из БД PostgrSQL - в папке: Backup_files/spare_parts_202402221933.sql
 
 
 
