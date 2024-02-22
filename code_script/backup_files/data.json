@@ -1,0 +1,233 @@
+[
+    {
+        "MPRGR": "5.3.001",
+        "ID": "0",
+        "Data_Length": "8",
+        "Length": 30,
+        "_Name_": "Override Control Mode",
+        "Scaling": "None",
+        "_Range_": "None",
+        "SPN": "None",
+        "SPN Doc": "5.2.3.01"
+    },
+    {
+        "MPRGR": "5.3.001",
+        "ID": "0",
+        "Data_Length": "8",
+        "Length": 36,
+        "_Name_": "Requested Speed Control Conditions",
+        "Scaling": "None",
+        "_Range_": "None",
+        "SPN": "None",
+        "SPN Doc": "5.2.3.02"
+    },
+    {
+        "MPRGR": "5.3.001",
+        "ID": "0",
+        "Data_Length": "8",
+        "Length": 42,
+        "_Name_": "Override Control Mode Priority",
+        "Scaling": "None",
+        "_Range_": "None",
+        "SPN": "None",
+        "SPN Doc": "5.2.3.03"
+    },
+    {
+        "MPRGR": "5.3.001",
+        "ID": "0",
+        "Data_Length": "8",
+        "Length": 48,
+        "_Name_": "Requested Speed",
+        "Scaling": "None",
+        "_Range_": "None",
+        "SPN": "None",
+        "SPN Doc": "5.2.1.19"
+    },
+    {
+        "MPRGR": "5.3.001",
+        "ID": "0",
+        "Data_Length": "8",
+        "Length": 54,
+        "_Name_": "Requested Torque",
+        "Scaling": "None",
+        "_Range_": "None",
+        "SPN": "None",
+        "SPN Doc": "5.2.1.15"
+    },
+    {
+        "MPRGR": "5.3.002",
+        "ID": "100",
+        "Data_Length": "8",
+        "Length": 26,
+        "_Name_": "Gear Shift Inhibit Request",
+        "Scaling": "None",
+        "_Range_": "None",
+        "SPN": "None",
+        "SPN Doc": "5.2.3.04"
+    },
+    {
+        "MPRGR": "5.3.002",
+        "ID": "100",
+        "Data_Length": "8",
+        "Length": 32,
+        "_Name_": "Torque Converter Lockup Disable Request",
+        "Scaling": "None",
+        "_Range_": "None",
+        "SPN": "None",
+        "SPN Doc": "5.2.3.05"
+    },
+    {
+        "MPRGR": "5.3.002",
+        "ID": "100",
+        "Data_Length": "8",
+        "Length": 38,
+        "_Name_": "Disengage Driveline Request",
+        "Scaling": "None",
+        "_Range_": "None",
+        "SPN": "None",
+        "SPN Doc": "5.2.3.06"
+    },
+    {
+        "MPRGR": "5.3.002",
+        "ID": "100",
+        "Data_Length": "8",
+        "Length": 44,
+        "_Name_": "Requested Percent Clutch Slip",
+        "Scaling": "None",
+        "_Range_": "None",
+        "SPN": "None",
+        "SPN Doc": "5.2.1.21"
+    },
+    {
+        "MPRGR": "5.3.002",
+        "ID": "100",
+        "Data_Length": "8",
+        "Length": 50,
+        "_Name_": "Requested Gear",
+        "Scaling": "None",
+        "_Range_": "None",
+        "SPN": "None",
+        "SPN Doc": "5.2.1.24"
+    },
+    {
+        "MPRGR": "5.3.002",
+        "ID": "100",
+        "Data_Length": "8",
+        "Length": 56,
+        "_Name_": "Disengage Differential Lock Request - Front Axle 1",
+        "Scaling": "None",
+        "_Range_": "None",
+        "SPN": "None",
+        "SPN Doc": "5.2.3.07"
+    },
+    {
+        "MPRGR": "5.3.002",
+        "ID": "100",
+        "Data_Length": "8",
+        "Length": 62,
+        "_Name_": "Disengage Differential Lock Request - Front Axle 2",
+        "Scaling": "None",
+        "_Range_": "None",
+        "SPN": "None",
+        "SPN Doc": "5.2.3.07"
+    },
+    {
+        "MPRGR": "5.3.002",
+        "ID": "100",
+        "Data_Length": "8",
+        "Length": 68,
+        "_Name_": "Disengage Differential Lock Request - Rear Axle 1",
+        "Scaling": "None",
+        "_Range_": "None",
+        "SPN": "None",
+        "SPN Doc": "5.2.3.07"
+    },
+    {
+        "MPRGR": "5.3.002",
+        "ID": "100",
+        "Data_Length": "8",
+        "Length": 74,
+        "_Name_": "Disengage Differential Lock Request - Rear Axle 2",
+        "Scaling": "None",
+        "_Range_": "None",
+        "SPN": "None",
+        "SPN Doc": "5.2.3.07"
+    },
+    {
+        "MPRGR": "5.3.002",
+        "ID": "100",
+        "Data_Length": "8",
+        "Length": 80,
+        "_Name_": "Disengage Differential Lock Request - Central",
+        "Scaling": "None",
+        "_Range_": "None",
+        "SPN": "None",
+        "SPN Doc": "5.2.3.07"
+    },
+    {
+        "MPRGR": "5.3.002",
+        "ID": "100",
+        "Data_Length": "8",
+        "Length": 86,
+        "_Name_": "Disengage Differential Lock Request - Central Front",
+        "Scaling": "None",
+        "_Range_": "None",
+        "SPN": "None",
+        "SPN Doc": "5.2.3.07"
+    },
+    {
+        "MPRGR": "5.3.002",
+        "ID": "100",
+        "Data_Length": "8",
+        "Length": 92,
+        "_Name_": "Disengage Differential Lock Request - Central Rear",
+        "Scaling": "None",
+        "_Range_": "None",
+        "SPN": "None",
+        "SPN Doc": "5.2.3.07"
+    },
+    {
+        "MPRGR": "5.3.002",
+        "ID": "100",
+        "Data_Length": "8",
+        "Length": 98,
+        "_Name_": "Transmission Mode #1",
+        "Scaling": "None",
+        "_Range_": "None",
+        "SPN": "None",
+        "SPN Doc": "5.2.7.???"
+    },
+    {
+        "MPRGR": "5.3.002",
+        "ID": "100",
+        "Data_Length": "8",
+        "Length": 104,
+        "_Name_": "Transmission Mode #2",
+        "Scaling": "None",
+        "_Range_": "None",
+        "SPN": "None",
+        "SPN Doc": "5.2.7.???"
+    },
+    {
+        "MPRGR": "5.3.002",
+        "ID": "100",
+        "Data_Length": "8",
+        "Length": 110,
+        "_Name_": "Transmission Mode #3",
+        "Scaling": "None",
+        "_Range_": "None",
+        "SPN": "None",
+        "SPN Doc": "5.2.7.???"
+    },
+    {
+        "MPRGR": "5.3.002",
+        "ID": "100",
+        "Data_Length": "8",
+        "Length": 116,
+        "_Name_": "Transmission Mode #4",
+        "Scaling": "None",
+        "_Range_": "None",
+        "SPN": "None",
+        "SPN Doc": "5.2.7.???"
+    }
+]
